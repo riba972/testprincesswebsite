@@ -1,0 +1,28 @@
+p{color:mediumpurple; text-align: left; text-size: 38px;}
+p2{color:mediumturquoise; text-align: left; text-size: 38px;}
+h1{color:mediumpurple; text-align: center;}
+h3{color:mediumpurple; text-align: center; margin-right: 500px; text-size: 80px}
+h2{color:mediumpurple; text-align: center; text-size: 42px}
+hr{color:blue; width: 1000px;}
+ol{color:yellow;}
+marquee{color:yellow; text-size: 50px; u;}
+ul{color:yellow; text-size: 30px;}
+body {background-image: url("castle1.png");    background-repeat: no-repeat;    background-position: right bottom;  background-attachment: fixed}
+p{margin-right: 500px;}
+
+
+p.inset {border-style: inset;}
+
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;}
+
+li a {display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;}
+
+
+li a:hover {background-color: #555; color: white;}
